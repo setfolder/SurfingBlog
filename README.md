@@ -1,2 +1,2 @@
 # SurfingBlog
-Surfing Blog website interface layout
+Click https://setfolder.github.io/SurfingBlog/ for preview.
